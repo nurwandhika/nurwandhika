@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Bangkit Capstone Project!**
  
- 🌱 I’m currently learning **Applied machine learning in mobile applications**
+ 🌱 I’m currently learning **Android Intermediate on dicoding**
 
 ⚡ Fun fact **My favorite game genre is MMORPG**
 
