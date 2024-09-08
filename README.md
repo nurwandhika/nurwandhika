@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Nothing, take a rest :)**
+ 🔭 I’m currently working on **Mobile IoT-based apps**
  
  🌱 I’m currently learning **Android Expert Course on Dicoding**
 
